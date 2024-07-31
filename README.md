@@ -15,3 +15,6 @@ O PicPay Simplificado é uma plataforma de pagamentos simplificada. Nela é poss
 - Uso do Git
 - Capacidade analítica
 - Apresentação de código limpo e organizado
+
+## Tecnologias
+![Skills](https://skillicons.dev/icons?i=java,spring)
