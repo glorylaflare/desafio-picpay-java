@@ -15,6 +15,10 @@ O PicPay Simplificado é uma plataforma de pagamentos simplificada. Nela é poss
 - Uso do Git
 - Capacidade analítica
 - Apresentação de código limpo e organizado
+- Técnicas de Design Patters e SOLID
+
+## Agradecimentos
+O desafios foi inspirado na resolução da **Fernanda Kipper**, com algumas melhorias básicas que fiz no código, é um desafio de nível "júnior", onde contém apenas o CRUD e algumas técnicas de código limpo. A ideia foi apenas paraticar noções de Java e Spring e aperfeiçoar meus conhecimentos.
 
 ## Tecnologias
 ![Skills](https://skillicons.dev/icons?i=java,spring)
